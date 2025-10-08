@@ -1,4 +1,4 @@
-# 🌿 CLIMAFIX Summit 2025 – Homepage Redesign
+#  CLIMAFIX Summit 2025 – Homepage Redesign
 
 This project is a redesigned homepage for [CLIMAFIX](https://www.climafix.in), with a focus on showcasing the CLIMAFIX Summit 2025 — India’s premier climate innovation event. The new layout highlights summit features, sessions, speakers, and registration in a clean, responsive design.
 
