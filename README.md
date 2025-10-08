@@ -36,7 +36,7 @@ climafix/
 ---
 
 ## Live Demo
-🌐 Live Website: https://climafix-summit-task.vercel.app/
+🌐 Live Website: https://climafix1.netlify.app/
 
 The application is deployed on Vercel and accessible at the above URL.
 
